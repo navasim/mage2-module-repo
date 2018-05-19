@@ -14,20 +14,5 @@
                 "Lolly/PopStudio"
             ]
         ]
-    },
-    "authors": [
-        {
-            "name": "Lolly Pop Sutdio",
-            "homepage": "http://google.foogle.com/",
-            "role": "Developer"
-        }
-    ],
-    "autoload": {
-        "files": [
-            "registration.php"
-        ],
-        "psr-4": {
-            "Lolly\\PopStudio\\": ""
-        }
     }
 }
